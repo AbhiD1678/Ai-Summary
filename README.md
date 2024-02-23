@@ -21,13 +21,13 @@
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/AbhiD1678/Lyriks.git
+git clone https://github.com/AbhiD1678/Ai-Summary.git
 ```
 
 <p>2. Navigate to the project directory:</p>
 
 ```
-cd Lyriks
+cd ai-summariser
 ```
 
 <p>3. Install dependencies:</p>
