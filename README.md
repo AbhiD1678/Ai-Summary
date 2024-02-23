@@ -8,13 +8,14 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="1" alt="project-screenshot" width="400" height="400/">
+<img src="ai-summarizer/src/assets/Capture.PNG" alt="project-screenshot" />
+<p>The home page of the website</p>
 
-<img src="2" alt="project-screenshot" width="400" height="400/">
+<img src="ai-summarizer/src/assets/2.PNG" alt="project-screenshot" />
+<p>Getting the summary of the website,just by passing the URL of the website</p>
 
-<img src="3" alt="project-screenshot" width="400" height="400/">
-
-<img src="4" alt="project-screenshot" width="400" height="400/">
+<img src="ai-summarizer/src/assets/3.PNG" alt="project-screenshot" />
+<p>The previously fetched summaries are also being stored with the URL of the website using the local storage of the system</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
